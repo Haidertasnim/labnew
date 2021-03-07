@@ -1,0 +1,13 @@
+F:\C# Code\Lab Assignment 2\Lab Assignment 2\bin\Debug\Lab Assignment 2.exe.config
+F:\C# Code\Lab Assignment 2\Lab Assignment 2\bin\Debug\Lab Assignment 2.exe
+F:\C# Code\Lab Assignment 2\Lab Assignment 2\bin\Debug\Lab Assignment 2.pdb
+F:\C# Code\Lab Assignment 2\Lab Assignment 2\obj\Debug\Lab Assignment 2.csprojResolveAssemblyReference.cache
+F:\C# Code\Lab Assignment 2\Lab Assignment 2\obj\Debug\Lab Assignment 2.exe
+F:\C# Code\Lab Assignment 2\Lab Assignment 2\obj\Debug\Lab Assignment 2.pdb
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\bin\Debug\Lab Assignment 2.exe.config
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\bin\Debug\Lab Assignment 2.exe
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\bin\Debug\Lab Assignment 2.pdb
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\obj\Debug\Lab Assignment 2.csprojAssemblyReference.cache
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\obj\Debug\Lab Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\obj\Debug\Lab Assignment 2.exe
+C:\Users\Tanzia\Desktop\c#\lab2\Lab Assignment 2\obj\Debug\Lab Assignment 2.pdb
